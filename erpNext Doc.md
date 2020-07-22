@@ -14,13 +14,13 @@
 </li>
 <li>Opportunity
 <blockquote>
-<p>നമ്മുടെ കമ്പനിയുടെ products വാങ്ങും എന്ന് ഉറപ്പുള്ള ആളുകള്‍ ഉദാ: ഫോണ്‍ കാള്‍<br>
+<p>നമ്മുടെ കമ്പനിയുടെ products വാങ്ങാന്‍ ആഗ്രഹം ആളുകള്‍ ഉദാ: ഫോണ്‍ കാള്‍<br>
 ലെ കസ്ടമര്‍ : ചേട്ടാ ആ പ്രോഡക്റ്റ് നു എത്ര രൂപ ആകും ,ഓര്‍ഡര്‍ ചെയ്താല്‍ എന്നത്തേക്ക് കിട്ടും ,EMI സൌകര്യമുണ്ടോ .ഇങ്ങനെ ഒക്കെ ഉള്ള ചോദ്യങ്ങള്‍ ഒരു oppertunity യുടെ മാത്രം സവിശേഷതയാണ്</p>
 </blockquote>
 </li>
 <li>Customer
 <blockquote>
-<p>നമ്മളുടെ കമ്പനിയില്‍ നിന്ന് ഉല്പന്നങ്ങളോ സേവനങ്ങളോ വാങ്ങുന്ന എല്ലാവരും Customer ആണ്</p>
+<p>നമ്മളുടെ കമ്പനിയില്‍ നിന്ന് ഉല്പന്നങ്ങളോ സേവനങ്ങളോ വാങ്ങുന്ന എല്ലാവരും Customer ആണ് ,വാങ്ങും എന്ന് ഉറപ്പുള്ളവരും</p>
 </blockquote>
 </li>
 <li>Communication
@@ -152,6 +152,31 @@
 <blockquote>
 <p>വാര്രെന്ടി ക്ലൈം റെക്കോര്‍ഡ്‌ ചെയ്യാനും AMC ( Annual Maintenance Contract) റിപ്പയര്‍ നോട്ട് ചെയ്യാനും</p>
 </blockquote>
+</li>
+</ul>
+<h2 id="selling">Selling</h2>
+<h3 id="sales">Sales</h3>
+<ul>
+<li>Customer
+<blockquote></blockquote>
+</li>
+<li>Quotation
+<blockquote></blockquote>
+</li>
+<li>Sales Order
+<blockquote></blockquote>
+</li>
+<li>Sales Invoice
+<blockquote></blockquote>
+</li>
+<li>Blanket Order
+<blockquote></blockquote>
+</li>
+<li>Sales Partner
+<blockquote></blockquote>
+</li>
+<li>Sales Person
+<blockquote></blockquote>
 </li>
 </ul>
 
