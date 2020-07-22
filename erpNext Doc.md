@@ -136,4 +136,23 @@
 </blockquote>
 </li>
 </ul>
+<h2 id="maintenance">Maintenance</h2>
+<ul>
+<li>Maintenance Schedule
+<blockquote>
+<p>ചില products നിശ്ചിത ഇടവേളകളില്‍ സര്‍വീസ് ചെയ്യേണ്ട ആവശ്യമുണ്ട് അത് ട്രാക്ക് ചെയ്യാനും കസ്റ്റമറെ ഇന്ഫോരം ചെയ്യാനും ഉദാ : ബൈക്ക് സര്‍വീസ് സെന്റര്</p>
+</blockquote>
+</li>
+<li>Maintenance Visit
+<blockquote>
+<p>നിശ്ചിത ഇടവേളകളില്‍ ഉള്ള സര്‍വീസ് വിസിറ്റ് ,അല്ലാതെ ഉള്ള സര്‍വീസ് വിസിറ്റ് (ബ്രേക്ക്‌ ഡൌണ്‍ ) ഇതൊക്കെ നോട്ട് ചെയ്യാന്‍</p>
+</blockquote>
+</li>
+<li>Warranty Claim
+<blockquote>
+<p>വാര്രെന്ടി ക്ലൈം റെക്കോര്‍ഡ്‌ ചെയ്യാനും AMC ( Annual Maintenance Contract) റിപ്പയര്‍ നോട്ട് ചെയ്യാനും</p>
+</blockquote>
+</li>
+<li></li>
+</ul>
 
