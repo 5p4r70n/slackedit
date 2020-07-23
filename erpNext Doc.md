@@ -161,13 +161,19 @@
 <blockquote></blockquote>
 </li>
 <li>Quotation
-<blockquote></blockquote>
+<blockquote>
+<p>ഭാവി കസ്റ്റമര്‍ അല്ലെങ്കില്‍ ഇപ്പോഴുള്ള കസ്റ്റമര്‍ ക്ക് നമ്മള്‍ വില്‍ക്കാന്‍ പോകുന്ന സാധനം/സേവനത്തിന്റെ estimated വില അയച്ചു കൊടുക്കാന്‍ വേണ്ടി ഉദാ:കസ്റ്റമര്‍ ഇതുപോലെ 3-4 കമ്പനികളില്‍ നിന്ന് വാങ്ങി ഒത്തു നോക്കി ലാഭവും മെച്ചവും ഉള്ള കമ്പനി തിരഞ്ഞെടുക്കും</p>
+</blockquote>
 </li>
 <li>Sales Order
-<blockquote></blockquote>
+<blockquote>
+<p>കസ്റ്റമര്‍ കമ്പനിക്ക് ഒരു ഓര്‍ഡര്‍ തരുന്നത്</p>
+</blockquote>
 </li>
 <li>Sales Invoice
-<blockquote></blockquote>
+<blockquote>
+<p>കസ്റ്റമര്‍ പൈസ തന്നതിന് ശേഷം കമ്പനി കസ്റ്റമര്‍ ക്ക് കൊടുക്കുന്ന ബില്‍</p>
+</blockquote>
 </li>
 <li>Blanket Order
 <blockquote></blockquote>
