@@ -176,13 +176,33 @@
 </blockquote>
 </li>
 <li>Blanket Order
-<blockquote></blockquote>
+<blockquote>
+<p>ഇതൊരു  കമ്പനി യും കസ്റ്റമര്‍ ഉം ആയുള്ള കരാര്‍ ആണ്,ഒരു ഉല്പന്നം നിശ്ചിത കാലയളവിലേക്ക് പറഞ്ഞുറപ്പിച്ച വിലയില്‍ നല്‍കാമെന്ന് ,അതായത് ഒരു സ്മാള്‍ സ്കാലെ കമ്പനി അവര്‍ക്ക് 1000 പാക്കറ്റ് അരിപ്പൊടി വേണം അത്രെയും ഒറ്റയടിക്ക് സ്റ്റോര്‍ ചെയ്യാന്‍ ഉള്ള സ്ഥലവും ഇല്ല ചിലപ്പോള്‍ അത് കാലഹരണ പെട്ട് പോകാനും ചാന്‍സ് ഉണ്ട് അപ്പോള്‍ ആ കമ്പനി  Blanket Order സെലക്ട്‌ ചെയ്യും എന്നിട്ട് ഒരു വര്‍ഷത്തേക്ക് ആയിരം പാക്കറ്റ് എല്ലാ മാസവും 83 വെച്ച് ലഭിക്കും കരാറില്‍ പറയുന്ന പൈസക്ക് അത്രേം കാലം ലഭിക്കുകയും ചെയ്യും</p>
+</blockquote>
 </li>
 <li>Sales Partner
-<blockquote></blockquote>
+<blockquote>
+<p>കമ്പനിക്ക്  ഓര്‍ഡര്‍ ലഭിക്കാന്‍ സഹായിക്കുന്ന ആളുകളോ കമ്പനി യൊ<br>
+ഉദാ : AGENT,ഡീലര്‍ ,DISTRIBUTOR ,RETAILER. .</p>
+</blockquote>
 </li>
 <li>Sales Person
-<blockquote></blockquote>
+<blockquote>
+<p>കമ്പനിയുടെ ഉത്പന്നങ്ങള്‍ വില്‍ക്കുന്ന ആള്‍</p>
+</blockquote>
 </li>
+</ul>
+<h3 id="items-and-pricing">Items and Pricing</h3>
+<p>-Item<br>
+&gt;</p>
+<ul>
+<li>Item Price</li>
+<li>Price List</li>
+<li>Item Group</li>
+<li>Product Bundle</li>
+<li>Promotional Scheme</li>
+<li>Pricing Rule</li>
+<li>Shipping Rule</li>
+<li>Coupon Code</li>
 </ul>
 
