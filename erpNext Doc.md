@@ -193,16 +193,48 @@
 </li>
 </ul>
 <h3 id="items-and-pricing">Items and Pricing</h3>
-<p>-Item<br>
-&gt;</p>
 <ul>
-<li>Item Price</li>
-<li>Price List</li>
-<li>Item Group</li>
-<li>Product Bundle</li>
-<li>Promotional Scheme</li>
-<li>Pricing Rule</li>
-<li>Shipping Rule</li>
-<li>Coupon Code</li>
+<li>Item
+<blockquote>
+<p>കമ്പനി ഓഫര്‍ ചെയ്യുന്ന സര്‍വീസോ ഉല്പന്നങ്ങലോ</p>
+</blockquote>
+</li>
+<li>Item Price
+<blockquote></blockquote>
+</li>
+<li>Price List
+<blockquote>
+<p>ഉല്പന്നത്തിന്റെ വിലയുടെ ഒരു കളക്ഷന്‍ ആണ് അത് വില്‍ക്കുന്നതിന്റെ ആകാം ,വാങ്ങുന്നതിന്റെ ആകാം അല്ലെങ്കില്‍ രണ്ടും ,അതായത് പല കസ്റ്റമര്‍ ഗ്രൂപ്പ്‌,പല സ്ഥലങ്ങള്‍ (ഷിപ്പിംഗ് കോസ്റ്റ് ), പല വിലകള്‍ ഒരേസമയം ഓര്‍ത്തിരിക്കാന്‍ ബുദ്ധിമുട്ടാണ് അതുകൊണ്ട് പ്രൈസ് ലിസ്റ്റ് ഇല ആഡ് ചെയ്തിട്ടതിനു ശേഷം sales/purchese ഓര്‍ഡര്‍ ചെയ്യുമ്പോള്‍ സെലക്ട്‌ ചെയ്താല്‍ മതി</p>
+</blockquote>
+</li>
+<li>Item Group
+<blockquote></blockquote>
+</li>
+<li>Product Bundle
+<blockquote>
+<p>ഒരു സെറ്റ് ആയി വില്‍ക്കുന്ന ഐറ്റംസ് ,അതായത് smartphone അത് വില്‍ക്കുമ്പോള്‍ മൊബൈല്‍,charger,സിം ejecter പിന്‍ ഇങ്ങനെ ഒറ്റ സെറ്റ് ആയിട്ടാണല്ലോ കൊടുക്കുന്നത്,അപ്പോള്‍ സ്മാര്‍ട്ട്‌ ഫോണ്‍ parent item നെയിം ആയും ബാക്കി ഉള്ള മൊബൈല്‍,charger,സിം ejecter ; child item ആയും ആഡ് ചെയ്യും</p>
+</blockquote>
+</li>
+<li>Promotional Scheme
+<blockquote>
+<p>ഒരു കുറഞ്ഞ കാലയളവിലേക്ക് ചില ഉത്പന്നങ്ങള്‍ക്ക് വിലകുറവ് നല്‍കാന്‍,</p>
+</blockquote>
+</li>
+<li>Pricing Rule
+<blockquote>
+<p>conditions ന്റെ അടിസ്ഥാനത്തില്‍ discount ഊ വിലയോ സെറ്റ് ചെയ്യുന്നതിന്<br>
+ഉദാ : ഒരു ഉല്പന്നം 10 എണ്ണത്തില്‍  കൂടുതല്‍ വാങ്ങിയാല്‍ 20% discount</p>
+</blockquote>
+</li>
+<li>Shipping Rule
+<blockquote>
+<p>conditions ന്റെ അടിസ്ഥാനത്തില്‍ ശിഇപിംഗ് കോസ്റ്റ് ഇന്വൊഇകെ കണക്ക് കൂട്ടാന്‍ ,അതായത് ഇ commerce സൈറ്റ് കളില്‍ നിന്ന് വാങ്ങുമ്പോള്‍ ഒരു നിശ്ചിത വിലയില്‍ താഴെ ആണെങ്കില്‍ ഷിപ്പിംഗ് charges ഉണ്ട് ,കൂടുതല്‍ ആണെങ്കില്‍ ഇല്ല  അത് പോലെ</p>
+</blockquote>
+</li>
+<li>Coupon Code
+<blockquote>
+<p>ഇത് രണ്ടു തരം ഉണ്ട് ഒന്ന് promotional ഉം ഗിഫ്റ്റ് കാര്‍ഡ്‌ ഉം ,promotional ഒരു പ്രത്യക pricing rule ന്റെ അടിസ്ഥാനത്തില്‍ നല്‍കുന്നത് ഉദാ : 10 ദിവസത്തേക്ക് SALE10 ഈ coupon കോഡ് ഇല 10% discount ,ഗിഫ്റ്റ് കാര്‍ഡ്‌ ഒരു നിശ്ചിത amount ഇല കൂടുതല്‍ purchase ചെയ്യുന്ന കസ്റ്റമര്‍ ,inactive കസ്റ്റമര്‍ എന്നിവര്‍ക്ക് ഇത്ര percentage അല്ലെങ്കില്‍ ഇത്ര രൂപ invoice ഇല്‍ കുറച്ചു നല്‍കാന്‍ വേണ്ടി</p>
+</blockquote>
+</li>
 </ul>
 
