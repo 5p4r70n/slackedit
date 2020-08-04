@@ -158,7 +158,9 @@
 <h3 id="sales">Sales</h3>
 <ul>
 <li>Customer
-<blockquote></blockquote>
+<blockquote>
+<p>നമ്മളുടെ കമ്പനിയില്‍ നിന്ന് ഉല്പന്നങ്ങളോ സേവനങ്ങളോ വാങ്ങുന്ന എല്ലാവരും Customer ആണ് ,വാങ്ങും എന്ന് ഉറപ്പുള്ളവരും</p>
+</blockquote>
 </li>
 <li>Quotation
 <blockquote>
@@ -233,8 +235,174 @@
 </li>
 <li>Coupon Code
 <blockquote>
-<p>ഇത് രണ്ടു തരം ഉണ്ട് ഒന്ന് promotional ഉം ഗിഫ്റ്റ് കാര്‍ഡ്‌ ഉം ,promotional ഒരു പ്രത്യക pricing rule ന്റെ അടിസ്ഥാനത്തില്‍ നല്‍കുന്നത് ഉദാ : 10 ദിവസത്തേക്ക് SALE10 ഈ coupon കോഡ് ഇല 10% discount ,ഗിഫ്റ്റ് കാര്‍ഡ്‌ ഒരു നിശ്ചിത amount ഇല കൂടുതല്‍ purchase ചെയ്യുന്ന കസ്റ്റമര്‍ ,inactive കസ്റ്റമര്‍ എന്നിവര്‍ക്ക് ഇത്ര percentage അല്ലെങ്കില്‍ ഇത്ര രൂപ invoice ഇല്‍ കുറച്ചു നല്‍കാന്‍ വേണ്ടി</p>
+<p>ഇത് രണ്ടു തരം ഉണ്ട് ഒന്ന് promotional ഉം ഗിഫ്റ്റ് കാര്‍ഡ്‌ ഉം ,promotional ഒരു പ്രത്യക pricing rule ന്റെ അടിസ്ഥാനത്തില്‍ നല്‍കുന്നത് ഉദാ : 10 ദിവസത്തേക്ക് “SALE10” ഈ coupon കോഡ് ഇല 10% discount ,ഗിഫ്റ്റ് കാര്‍ഡ്‌ ഒരു നിശ്ചിത amount ഇല കൂടുതല്‍ purchase ചെയ്യുന്ന കസ്റ്റമര്‍ ,inactive കസ്റ്റമര്‍ എന്നിവര്‍ക്ക് ഇത്ര percentage അല്ലെങ്കില്‍ ഇത്ര രൂപ invoice ഇല്‍ കുറച്ചു നല്‍കാന്‍ വേണ്ടി</p>
 </blockquote>
 </li>
 </ul>
+<h3 id="settings-1">Settings</h3>
+<ul>
+<li>Selling Settings
+<blockquote></blockquote>
+</li>
+<li>Terms and Conditions Template
+<blockquote>
+<p>ഒരു കമ്പനി കസ്റ്റമര്‍ നു ഉല്പന്നം വില്‍ക്കുമ്പോള്‍ ആ ഉല്പന്നം /  സര്‍വീസ് ന്റെ വ്യെവസ്ഥ കളും നിബന്ധനകളും ആണ് "Terms and Conditions " ല്‍ അടങ്ങിയിരിക്കുന്നത് ,ചിലപ്പോള്‍ ഒരു individual കസ്റ്റമര്‍ ക്ക് കൊടുക്കുന്ന Terms and Conditions  ആയിരിക്കില്ല Organisation കസ്റ്റമര്‍ ന്, ഒന്നിലധികം Terms and Conditions തരാം തിരിച്ചു സേവ് ചെയ്യാന്‍ Terms and Conditions ടെമ്പ്ലേറ്റ് ഉപ്ടയോഗിക്കുന്നത്</p>
+</blockquote>
+</li>
+<li>Sales Taxes and Charges Template
+<blockquote>
+<p>Sales Taxes ആന്‍ഡ്‌ charges കമ്പനി ഏതു ഉല്പന്നം വില്ക്കുമ്പോഴും അപ്ലൈ ചെയ്യേണ്ടതാണ് അത് പ്രോഡക്റ്റ് അനുസരിച്ചോ വില്‍ക്കുന്ന സ്ഥലം അനുസരിച്ചോ മാറ്റം വരാം അതായത് കേരളത്തിലെ flood cess തുടങ്ങിയ എക്സ്ട്രാ charges  ,അതൊക്കെ ഓരോ സമയത്തും invoice ഇല്‍ മനുഅല്ആ‍ ഡ് ചെയ്യാന്‍ ബുദ്ധിമുട്ട് ആയിരിക്കും അതിനാണ് ഈ ടെമ്പ്ലേറ്റ് ഉപയോഗിക്കുന്നത് ,കമ്പനി യുടെ പോളിസി അനുസരിച് tax സെറ്റ് ചെയ്യാം</p>
+</blockquote>
+</li>
+<li>Lead Source
+<blockquote></blockquote>
+</li>
+<li>Customer Group
+<blockquote>
+<p>കമ്പനി യുടെ കസ്റ്റമേഴ്സ് നെ വിവിധ parameter ന്റെ അടിസ്ഥാനത്തില്‍ തരം തിരിച്ചു ഗ്രൂപ്പ്‌ ഉണ്ടാക്കാന്‍ ,ഒരു കസ്റ്റമര്‍ നെ തന്നെ ഒന്നിലധികം ഗ്രൂപ്പ്‌ ഇല്‍ ആഡ് ചെയ്യാം ഉദാ: ഇന്ത്യക്കാരന്‍ വിദേശി ,വ്യെക്തി കമ്പനി, അങ്ങനെ അങ്ങനെ വിവിധ ആവശ്യങ്ങള്‍ക്ക് വേണ്ടി വിവിധ ഗ്രൂപ്സ്</p>
+</blockquote>
+</li>
+<li>Contact
+<blockquote>
+<p>Contact ഒരു person ആണ് ,contact ഒരു ലീഡ്, കസ്റ്റമര്‍,സപ്ലയര്‍,shareholder,sales partner ,user ഇതിലേതെങ്കിലും ഒന്നോ /അല്ലെങ്കില്‍ ഒന്നില്‍ കൂടുതലോ  ആകാം ,അതല്ലങ്കില്‍ ഇതിലൊന്നും ലിങ്ക് ചെയ്യാതെയും ആഡ് ചെയ്യാം,ആത് കൂടാതെ നമുക്ക് contact നെ നമ്മുടെ സിസ്റ്റം ലേക്ക് invite ചെയ്യാനും സാധിക്കും അവരെ സംബന്ധിക്കുന്ന വിവരങ്ങള്‍ കാണാന്‍</p>
+</blockquote>
+</li>
+<li>Address
+<blockquote>
+<p>Lead, Customer, Supplier, Shareholder, Sales Partner or a Warehouse. ഇതിലേതെങ്കിലും ന്‍റെ അഡ്രസ്‌ റെക്കോര്‍ഡ്‌ ചേയ്യാന്‍</p>
+</blockquote>
+</li>
+<li>Territory
+<blockquote></blockquote>
+</li>
+<li>Campaign
+<blockquote></blockquote>
+</li>
+</ul>
+<h3 id="key-reports">Key Reports</h3>
+<ul>
+<li>Sales Analytics
+<blockquote></blockquote>
+</li>
+</ul>
+<p>Sales Funnel<br>
+Customer Acquisition and Loyalty<br>
+Inactive Customers<br>
+Ordered Items To Be Delivered<br>
+Sales Person-wise Transaction Summary<br>
+Item-wise Sales History<br>
+Quotation Trends<br>
+Sales Order Trends</p>
+<h3 id="other-reports">Other Reports</h3>
+<p>Lead Details<br>
+Customer Addresses And Contacts<br>
+BOM Search<br>
+Available Stock for Packing Items<br>
+Pending SO Items For Purchase Request<br>
+Customer Credit Balance<br>
+Customers Without Any Sales Transactions<br>
+Sales Partners Commission</p>
+<h2 id="accounting">Accounting</h2>
+<h3 id="accounts-receivable">Accounts Receivable</h3>
+<ul>
+<li>Sales Invoice
+<blockquote>
+<p>കുസ്റ്റമെർ പൈസ തരുമ്പോൾ നൽകുന്ന ബില്ല്</p>
+</blockquote>
+</li>
+<li>Customer
+<blockquote>
+<p>നമ്മളുടെ കമ്പനിയില്‍ നിന്ന് ഉല്പന്നങ്ങളോ സേവനങ്ങളോ വാങ്ങുന്ന എല്ലാവരും Customer ആണ് ,വാങ്ങും എന്ന് ഉറപ്പുള്ളവരും</p>
+</blockquote>
+</li>
+<li>Payment Entry
+<blockquote>
+<p>ഒരു സെയിൽസ് ഇൻവോയ്‌സ്‌ / പർച്ചേസ് ഇൻവോയ്‌സ്‌  നു പൈസ കിട്ടി/ കൊടുത്തു  എന്നതിന്റെ record ആനു Payment Entry</p>
+</blockquote>
+</li>
+<li>Payment Request
+<blockquote>
+<p>ഒരു sales invoice നൊ  sales order നൊ വേണ്ടി  കുസ്റ്റമർനോട് പെയ്യ്മെറ്റ് ചോതിക്കുന്നതിനു</p>
+</blockquote>
+</li>
+<li>Accounts Receivable
+<blockquote>
+<p>==  sales Invoice അയചു കൊടുത്തിട്ടുള്ള കുസ്റ്റമർ തരാനുള്ള ബാക്കി പൈസ ==</p>
+</blockquote>
+</li>
+<li><mark>Accounts Receivable Summary</mark>
+<blockquote></blockquote>
+</li>
+<li>Sales Register
+<blockquote>
+<p>ഒരു നിശ്ചിത സമയത്തെ എല്ലാ വില്പനകൾ കാണാനും അതിന്റെ ഒപ്പം തന്നെ അതിന്റെ ഇൻവോയ്‌സ്‌ എമൗണ്ട് ,ടാക്സ് എന്നിവ വെവ്വേറെ കോളങ്ങളിൽ കാണാൻ സാധിക്കും ,അതുകൊണ്ടു തന്നെ ആ കാലയളവിൽ കിട്ടിയ ടാക്സ് എളുപ്പം കണ്ടുപിടിക്കാൻ പറ്റും ,ടാക്സ് റിട്ടേൺ ചെയ്യുമ്പോൾ അത് സഹായകമാകും</p>
+</blockquote>
+</li>
+<li><mark>Item-wise Sales Register</mark>
+<blockquote></blockquote>
+</li>
+<li>Ordered Items To Be Billed
+<blockquote>
+<p>കസ്റ്റമർ സെയിൽസ് ഓർഡർ നൽകിയിട്ടും ഇതുവരെ കൊടുക്കാത്ത / സെയിൽസ് ഇൻവോയ്‌സ്‌ ജനറേറ്റ് ചെയ്യാത്ത ഓർഡറുകൾ</p>
+</blockquote>
+</li>
+<li>Delivered Items To Be Billed
+<blockquote>
+<p>ഇതുവരെ ബില്ല് ചെയ്യാത്ത കസ്റ്റമർ നു ഡെലിവർ ചെയ്ത ഓർഡറുകൾ</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="accounts-payable">Accounts Payable</h3>
+<ul>
+<li>Purchase Invoice
+<blockquote>
+<p>സപ്ലയർ നമുക്കു തരുന്ന ബില്ല് ,അതായത് റോ മെറ്റീരിയൽസ് തുടങ്ങിയവ വാങ്ങുമ്പോൾ സപ്ലയർ തരുന്നത് .ഇതിന്റെ അടിസ്ഥാനത്തിൽ ആണ് സപ്ലയർ നു പേയ്മെന്റ് ചെയ്യണ്ടത്</p>
+</blockquote>
+</li>
+<li>Supplier
+<blockquote>
+<p>നമുക്ക് ഉത്പന്നങ്ങളോ സെർവീസോ തരുന്നവർ ,ഉദാ : നമ്മുടെ സൂപ്പർ മാർക്കറ്റിലേക്ക് ബിസ്ക്കറ്സ് തരുന്ന ഹിന്ദുസ്ഥാൻ യുണിലിവർ നമുക്ക് സപ്ലയർ ആണ്</p>
+</blockquote>
+</li>
+<li>Payment Entry
+<blockquote>
+<p>ഒരു സെയിൽസ് ഇൻവോയ്‌സ്‌ / പർച്ചേസ് ഇൻവോയ്‌സ്‌  നു പൈസ കിട്ടി/ കൊടുത്തു  എന്നതിന്റെ record ആനു Payment Entry</p>
+</blockquote>
+</li>
+<li>Accounts Payable
+<blockquote>
+<p>സപ്ലയർ ബില്ല് തന്നിട്ടു കമ്പനി സപ്ലയർ നു കൊടുക്കാൻ ഉള്ള ബാക്കി തുക/കൾ</p>
+</blockquote>
+</li>
+<li><mark>Accounts Payable Summary</mark>
+<blockquote></blockquote>
+</li>
+<li>Purchase Register
+<blockquote>
+<p>ഒരു നിശ്ചിത സമയത്തെ എല്ലാ വാങ്ങലുകൾ  കാണാനും അതിന്റെ ഒപ്പം തന്നെ അതിന്റെ ഇൻവോയ്‌സ്‌ എമൗണ്ട് ,ടാക്സ് എന്നിവ വെവ്വേറെ കോളങ്ങളിൽ കാണാൻ സാധിക്കും ,അതുകൊണ്ടു തന്നെ ആ കാലയളവിൽ കൊടുത്ത ടാക്സ് എളുപ്പം കണ്ടുപിടിക്കാൻ പറ്റും ,ടാക്സ് റിട്ടേൺ ചെയ്യുമ്പോൾ അത് സഹായകമാകും</p>
+</blockquote>
+</li>
+<li>
+<h2 id="item-wise-purchase-register-">== Item-wise Purchase Register ==</h2>
+</li>
+<li>Purchase Order Items To Be Billed
+<blockquote>
+<p>ഓർഡർ നൽകിയിട്ടും ഇതുവരെ കിട്ടാത്ത / ഇൻവോയ്‌സ്‌ താരാത്ത ഓർഡറുകൾ</p>
+</blockquote>
+</li>
+<li>Received Items To Be Billed
+<blockquote>
+<p>ഉത്പന്നങ്ങൾ കിട്ടിയിട്ടും ഇതുവരെ ബില്ല് തരാത്ത ഓർഡറുകൾ</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="accounting-masters">Accounting Masters</h3>
+<p>Company<br>
+Chart of Accounts<br>
+Accounts Settings<br>
+Fiscal Year<br>
+Accounting Dimension<br>
+Finance Book<br>
+Accounting Period<br>
+Payment Term</p>
 
